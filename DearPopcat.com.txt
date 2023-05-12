@@ -1,10 +1,15 @@
 Dear Popcat.click,
 
-I am writing to you regarding the Auto Kliker program that I have created. First and foremost, I want to clarify that my intention is not to cause any harm or malice towards your website. Our program is designed to automate clicks on your website, but it is not intended to exploit or harm your website in any way.
+I am writing to you regarding the Auto Kliker program that I have created. 
+First and foremost, I want to clarify that my intention is not to cause any harm or malice towards your website. 
+Our program is designed to automate clicks on your website, but it is not intended to exploit or harm your website in any way.
 
-We understand that you may be concerned about the use of XSS attacks or other malicious methods to interfere with your website. However, I want to assure you that our program does not use any such methods. Our focus is solely on automating the clicking process in a safe and non-invasive manner.
+We understand that you may be concerned about the use of XSS attacks or other malicious methods to interfere with your website. 
+However, I want to assure you that our program does not use any such methods. 
+Our focus is solely on automating the clicking process in a safe and non-invasive manner.
 
-We hope that you can understand our perspective and appreciate that our program is not meant to cause any harm or disruption to your website. We would be happy to discuss any concerns you may have and provide further information about our program if needed.
+We hope that you can understand our perspective and appreciate that our program is not meant to cause any harm or disruption to your website. 
+We would be happy to discuss any concerns you may have and provide further information about our program if needed.
 
 Thank you for your attention and consideration.
 
